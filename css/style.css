@@ -1,0 +1,40 @@
+body{   background-color: #1b1458;
+ }
+div{    margin: auto;width: 90%;
+	
+ } 
+table{
+			    width: 100%;
+    background-image: url(../images/tableback.jpg);
+    border-collapse: inherit;
+    border-color: #0ed2d2;
+ }
+   
+th{ font-size: 25px;
+    text-align: center;
+    background-color: #523e35;
+    color: floralwhite;
+        padding: 10px;
+ }
+tr{ text-align: center;
+    color: initial;
+    font-size: 20px
+ } 		
+td{
+    font-weight: bolder;
+    color: #ffe76d;
+}
+h1{
+    text-align: center;
+    color: #fbd200;
+    background: #0a5465;
+}
+h2{ text-align: center;
+    color: #18e8c4;
+    background: darkgreen
+
+}
+img{ display: table;
+    width: 100px;
+    margin-left: 600px;
+}
